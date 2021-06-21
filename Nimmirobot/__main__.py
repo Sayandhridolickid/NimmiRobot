@@ -75,8 +75,8 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, This is a complete Bot to help you manage your groups easily and safely! 
  
-Add me in a Supergroup and promote me as Admin to let me get in action❗
- ❓ WHAT ARE THE COMMANDS? ❓
+I'm @Movievibezz Official Admin Bot😍❗
+ ❓ Join😒❓
 Press /help to see all the commands and how they work!
 """
 
@@ -87,7 +87,7 @@ Welcome to the help menu!
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-NIMMIROBOT_IMG = "https://i.imgur.com/1aKfIG3.jpg"
+RAMBOROBOT_IMG = https://telegra.ph/file/da89ec60fd41fbf1f5ab6.jpg"
 
 DONATE_STRING = """donation contact @tubots"""
 
